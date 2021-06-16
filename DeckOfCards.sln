@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31205.134
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeckOfCards", "DeckOfCards.csproj", "{46F5C233-F596-454D-8EDC-B6CDD1C23509}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeckOfCards", "DeckOfCards.csproj", "{46F5C233-F596-454D-8EDC-B6CDD1C23509}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeckOfCardsTest", "..\DeckOfCardsTest\DeckOfCardsTest.csproj", "{7050DD81-91CB-4006-86CA-C0DD6FA9345D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeckOfCardsTest", "..\DeckOfCardsTest\DeckOfCardsTest.csproj", "{8AB4B7DE-EA9D-4334-8470-56C46159A9EE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{46F5C233-F596-454D-8EDC-B6CDD1C23509}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{46F5C233-F596-454D-8EDC-B6CDD1C23509}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{46F5C233-F596-454D-8EDC-B6CDD1C23509}.Release|Any CPU.Build.0 = Release|Any CPU
-		{7050DD81-91CB-4006-86CA-C0DD6FA9345D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7050DD81-91CB-4006-86CA-C0DD6FA9345D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7050DD81-91CB-4006-86CA-C0DD6FA9345D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7050DD81-91CB-4006-86CA-C0DD6FA9345D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AB4B7DE-EA9D-4334-8470-56C46159A9EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AB4B7DE-EA9D-4334-8470-56C46159A9EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AB4B7DE-EA9D-4334-8470-56C46159A9EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AB4B7DE-EA9D-4334-8470-56C46159A9EE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
