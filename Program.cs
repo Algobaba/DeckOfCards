@@ -24,6 +24,7 @@ namespace DeckOfCards
                 deck.getCards(suite).ForEach(c => Console.WriteLine(c.DisplayCardWithValues()));
                 Console.WriteLine("---------------------------------------------------");
             }
+
             Console.WriteLine($"5. Scenario Outline: Face Cards are ordered");
             var facedCards = deck.GetFacedCards();
             Console.WriteLine($"FacedCardsCount={facedCards?.Count}");           
